@@ -115,6 +115,16 @@ ul li:hover .dropdown {
     padding: 0 1rem;
 }
 
+#subResult{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+#paymentResult{
+    color: white;
+    background-color: green;
+    text-align: center;
+}
 footer {
     text-align: center;
     padding: 1rem;
